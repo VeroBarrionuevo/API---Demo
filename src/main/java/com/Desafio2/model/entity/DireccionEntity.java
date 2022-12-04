@@ -1,4 +1,4 @@
-package com.Desafio2.Model.entity;
+package com.Desafio2.model.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

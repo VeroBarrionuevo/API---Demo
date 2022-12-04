@@ -1,4 +1,4 @@
-package com.Desafio2.Model.domain;
+package com.Desafio2.model.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

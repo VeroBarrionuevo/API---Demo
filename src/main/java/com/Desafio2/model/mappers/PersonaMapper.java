@@ -1,8 +1,8 @@
-package com.Desafio2.Model.mappers;
+package com.Desafio2.model.mappers;
 
-import com.Desafio2.Model.domain.MensajeDTO;
-import com.Desafio2.Model.domain.PersonaDTO;
-import com.Desafio2.Model.entity.PersonaEntity;
+import com.Desafio2.model.domain.MensajeDTO;
+import com.Desafio2.model.domain.PersonaDTO;
+import com.Desafio2.model.entity.PersonaEntity;
 import org.springframework.stereotype.Component;
 
 import java.util.Optional;

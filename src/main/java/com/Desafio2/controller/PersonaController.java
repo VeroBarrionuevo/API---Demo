@@ -1,7 +1,7 @@
 package com.Desafio2.controller;
 
-import com.Desafio2.Model.domain.MensajeDTO;
-import com.Desafio2.Model.domain.PersonaDTO;
+import com.Desafio2.model.domain.MensajeDTO;
+import com.Desafio2.model.domain.PersonaDTO;
 import com.Desafio2.service.PersonaService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

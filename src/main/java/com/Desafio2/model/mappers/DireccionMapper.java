@@ -1,7 +1,7 @@
-package com.Desafio2.Model.mappers;
+package com.Desafio2.model.mappers;
 
-import com.Desafio2.Model.domain.DireccionDTO;
-import com.Desafio2.Model.entity.DireccionEntity;
+import com.Desafio2.model.domain.DireccionDTO;
+import com.Desafio2.model.entity.DireccionEntity;
 import org.springframework.stereotype.Component;
 
 import java.util.Optional;

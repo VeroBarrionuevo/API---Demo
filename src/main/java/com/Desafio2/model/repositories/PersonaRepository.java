@@ -1,6 +1,6 @@
-package com.Desafio2.Model.repositories;
+package com.Desafio2.model.repositories;
 
-import com.Desafio2.Model.entity.PersonaEntity;
+import com.Desafio2.model.entity.PersonaEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

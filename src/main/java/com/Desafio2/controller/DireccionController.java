@@ -1,6 +1,6 @@
 package com.Desafio2.controller;
 
-import com.Desafio2.Model.domain.DireccionDTO;
+import com.Desafio2.model.domain.DireccionDTO;
 import com.Desafio2.service.DireccionService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

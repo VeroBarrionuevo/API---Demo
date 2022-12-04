@@ -1,8 +1,8 @@
 package com.Desafio2.service;
 
-import com.Desafio2.Model.domain.DireccionDTO;
-import com.Desafio2.Model.mappers.DireccionMapper;
-import com.Desafio2.Model.repositories.DireccionRepository;
+import com.Desafio2.model.domain.DireccionDTO;
+import com.Desafio2.model.mappers.DireccionMapper;
+import com.Desafio2.model.repositories.DireccionRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
