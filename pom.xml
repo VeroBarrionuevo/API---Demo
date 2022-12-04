@@ -11,7 +11,7 @@
 	<groupId>com.Desafio2</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Desafio Folco 2</name>
+	<name>Desafio 2</name>
 	<description>Conectar API a Base de Datos</description>
 	<properties>
 		<java.version>11</java.version>
